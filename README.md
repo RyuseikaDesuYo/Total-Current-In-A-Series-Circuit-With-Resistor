@@ -1,0 +1,1 @@
+# Total-Current-In-A-Series-Circuit-With-Resistor
